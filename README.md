@@ -1,5 +1,5 @@
-# wanna-be
-A Fashion Recommendation System built to support black owned small businesses.
+# wanna-be - Fashion Recommendation System
+A hybrid recommendation system built to support black owned small businesses. Recommendations and links to the sites will be suggested.
 
 👗 This project is based on building a content-based Fashion Recommendation
 System.
