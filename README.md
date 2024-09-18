@@ -29,3 +29,7 @@ be recommended first.
 👗 The UI is built using Streamlit.
 
 👗 Working final product: https://github.com/Varshinipj/wanna-be/blob/main/streamlit-app-2022-06-06-02-06-16.mp4
+
+
+https://github.com/user-attachments/assets/d4c121c8-3db0-4852-af05-7a0ced0fc798
+
