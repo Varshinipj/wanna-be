@@ -1,6 +1,10 @@
 # wanna-be - Fashion Recommendation System
 A hybrid recommendation system built to support black owned small businesses. Recommendations and links to the sites will be suggested.
 
+## Authors
+  - Varshini P J
+  - Dharineesh Karthikeyan
+
 👗 This project is based on building a content-based Fashion Recommendation
 System.
 
